@@ -1,0 +1,7 @@
+# osm2city_w090n20_w081n26_1629443
+# do not edit below this line
+# Last Written Thu Oct 22 03:11:07 2015
+#
+OBJECT_STATIC w090n20_w081n26_1629443city0905.xml -80.25284 25.99976 1.04 0
+OBJECT_STATIC lightmap-switch.xml -80.25284 25.99976 1.04 0
+# END osm2city_w090n20_w081n26_1629443
